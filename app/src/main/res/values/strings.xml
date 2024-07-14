@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tasbih</string>
+
+
+    <string-array name="jikir">
+        <item>Allahu Akbar</item>
+        <item>La ilaha illallah</item>
+        <item>Alhamdulillah</item>
+        <item>Subhan Allah</item>
+        <item>Astagfirullah</item>
+        <item>Sallallahu Alaihi wa Sallam</item>
+        <item>Subhan allahi wa bihamdihi</item>
+        <item>Nawjubillah</item>
+        <item>Fi Amanillah</item>
+        <item>Rabbi Jidni Ilma</item>
+        <item>Bismillah</item>
+        <item>Allahumag Firli</item>
+    </string-array>
+
+
+</resources>
